@@ -34,3 +34,9 @@ cat -n index.php | tail -n +20 | head -n 20
 12、free 查询内存使用情况
 
 13、打开文件  cat index.php   tail -f index.php  vim index.php  小文件可以，大文件就不行了
+
+推荐网址：https://link.juejin.im/?target=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI4Njg5MDA5NA%3D%3D%26mid%3D2247484231%26idx%3D1%26sn%3D4cf217a4d692a7aba804e5d96186b15b%26chksm%3Debd74246dca0cb5024de2f1d9f9e2ecb631e49752713c25bbe44f44856e919df5a973049c189%26scene%3D21%23wechat_redirect
+
+
+
+
